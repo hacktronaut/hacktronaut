@@ -13,7 +13,7 @@ Welcome to my GitHub repository! I'm Karthik  Ganti, a Full Stack Developer with
 
 - I design and deploy web apps powered by blockchain technology.
 - Collaborate on open-source projects.
-- Write technical articles on [Medium](https://medium.com/@raokarthik83).
+- Write technical articles on <a href="https://medium.com/@raokarthik83" target="_blank"><img src="https://img.shields.io/badge/medium-%40raokarthik83-brightgreen" alt="Medium"></a>.
 - Teach and share knowledge on blockchain, chatGPT and architecting web apps.
 
 
