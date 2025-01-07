@@ -47,6 +47,7 @@ My dedication to learning is reflected in the following certifications and licen
 - IBM Blockchain Foundation For Developers – Coursera
 - Blockchain Architecture Design & Use Cases – NPTEL (IIT Kharagpur)
 - Certified Solidity Developer – Blockchain Council
+- Hyperledger Fabric Certified Practitioner (Linux Foundation)
 
 
 ## Get in Touch
